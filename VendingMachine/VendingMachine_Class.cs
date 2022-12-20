@@ -213,7 +213,7 @@ namespace VendingMachine
                 textBox.Text = "";
                 await Task.Delay(500);
 
-                textBox.Text = "Please call 052-69696969 & Invite The Technician";
+                textBox.Text = "Please call 052-123456789 & Invite The Technician";
 
                 await Task.Delay(2000);
                 textBox.Text = "";
