@@ -20,3 +20,14 @@ D:\Projects\Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.
 D:\Projects\Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
 D:\Projects\Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.exe
 D:\Projects\Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Debug\VendingMachine.pdb

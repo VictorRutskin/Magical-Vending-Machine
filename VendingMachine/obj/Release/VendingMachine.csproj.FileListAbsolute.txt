@@ -1,0 +1,11 @@
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Release\VendingMachine.exe.config
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Release\VendingMachine.exe
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\bin\Release\VendingMachine.pdb
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.csproj.AssemblyReference.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.Form1.resources
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.Properties.Resources.resources
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.csproj.GenerateResource.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.exe
+D:\Projects\Git\My Git\Magical-Vending-Machine\VendingMachine\obj\Release\VendingMachine.pdb
